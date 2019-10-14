@@ -58,4 +58,4 @@ email: ""
 # - Researchers
 # - Visitors
 ---
-<br><br><br>Infrastructure Engineer at Liberty Mutual / Technology Geek
+Kevin Vecchione is a Senior Infrastructure Engineer at Liberty Mutual. He lives in southern New Hampshire with his wife Laura and their two sons. He enjoys traveling, gaming, and spending time with family. Despite living in New England, he's a fan of the New York Yankees and Los Angeles Rams.
