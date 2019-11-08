@@ -47,7 +47,7 @@ social:
   link: https://github.com/kvecchione
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/umkvec/
+  link: https://www.linkedin.com/in/kvecchione/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
