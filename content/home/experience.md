@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   description = """
   Responsibilities:
 
-  * Transition legacy middlware platforms to container platforms
+  * Transition legacy middleware platforms to container platforms
   * Leverage Docker, Ansible, Python, and other tools to automate processes
   * Coach team on modern automation tools and practices
   """
