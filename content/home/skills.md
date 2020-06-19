@@ -24,7 +24,7 @@ subtitle = ""
   icon = "docker"
   icon_pack = "fab"
   name = "Containers"
-  description = "Docker, Kubernetes" 
+  description = "Kubernetes, Docker" 
   
 [[feature]]
   icon = "cogs"
