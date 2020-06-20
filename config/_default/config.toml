@@ -18,7 +18,7 @@ copyright = ""
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = ""
 
-publishDir = "../kvecchione.github.io"
+publishDir = "public"
 
 ############################
 ## Advanced options below ##
