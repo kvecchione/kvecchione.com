@@ -29,11 +29,6 @@
   weight = 50
 
 [[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 60
-
-[[main]]
   name = "Resume (PDF)"
   url = "https://www.dropbox.com/s/ntjtb7ij49fisml/Kevin%20Vecchione%20Resume%202020-03-02.pdf?dl=0"
   weight = 70
