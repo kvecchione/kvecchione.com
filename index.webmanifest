@@ -1,0 +1,18 @@
+{
+  "name": "Kevin Vecchione",
+  "short_name": "Kevin Vecchione",
+  "lang": "en-us",
+  "theme_color": "#1e9ed3",
+  "background_color": "#1e9ed3",
+  "icons": [{
+    "src": "/images/icon_hubedd9f2c03a40111cfe54d4dd1216c79_59410_192x192_fill_lanczos_center_2.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/images/icon_hubedd9f2c03a40111cfe54d4dd1216c79_59410_512x512_fill_lanczos_center_2.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}
