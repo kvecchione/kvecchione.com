@@ -51,11 +51,5 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
-  
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.  
-# user_groups:
-# - Researchers
-# - Visitors
 ---
-Kevin Vecchione is a Principal Infrastructure Engineer at Liberty Mutual. He lives in southern New Hampshire with his wife Laura and their two sons. He enjoys traveling, gaming, and spending time with family. Despite living in New England, he's a fan of the New York Yankees and Los Angeles Rams.
+Kevin Vecchione is a Principal Infrastructure Engineer at Liberty Mutual. He lives in southern New Hampshire with his wife Laura and their two sons. He enjoys traveling, gaming, and spending time with family.
