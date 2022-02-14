@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Principal Infrastructure Engineer"
+  title = "Solutions Engineer, Infrastructure"
   company = "Liberty Mutual"
   company_url = "https://www.libertymutual.com"
   location = "Dover, NH"
@@ -27,8 +27,8 @@ date_format = "Jan 2006"
   description = """
   Responsibilities:
 
-  * Transition legacy middleware platforms to container platforms
-  * Leverage Docker, Ansible, Python, and other tools to automate processes
+  * Lead engineer for Cloud Platforms and Integrations squad in Global Retail Markets US IT Operations
+  * Architect strategies and solutions to build and migrate workload to AWS and Kubernetes
   * Coach team on modern automation tools and practices
   """
 
