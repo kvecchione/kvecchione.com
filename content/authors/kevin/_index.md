@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Principal Infrastructure Engineer
+role: Solutions Engineer
 
 # Organizations/Affiliations
 organizations:
@@ -24,8 +24,8 @@ interests:
 - Linux
 - Python
 - Containers
+- Cloud Infrastructure
 - Configuration Management
-- Scalable Computing
 - Databases
 
 education:
@@ -52,4 +52,4 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 ---
-Kevin Vecchione is a Principal Infrastructure Engineer at Liberty Mutual. He lives in southern New Hampshire with his wife Laura and their two sons. He enjoys traveling, gaming, and spending time with family.
+Kevin Vecchione is a Solutions Engineer at Liberty Mutual. He lives in southern New Hampshire with his wife Laura and their two sons. He enjoys traveling, gaming, and spending time with family.
