@@ -12,24 +12,57 @@ subtitle = ""
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
 date_format = "Jan 2006"
 
-# Experiences.
-#   Add/remove as many `[[experience]]` blocks below as you like.
-#   Required fields are `title`, `company`, and `date_start`.
-#   Leave `date_end` empty if it's your current employer.
-#   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Solutions Engineer, Infrastructure"
   company = "Liberty Mutual"
   company_url = "https://www.libertymutual.com"
-  location = "Dover, NH"
-  date_start = "2017-06-19"
+  location = "Remote"
+  date_start = "2021-12-01"
   date_end = ""
   description = """
-  Responsibilities:
+  * Lead and mentor team of 9 engineers with diverse skillsets on modern tools and practices, incident troubleshooting techniques, and software development skills
+  * Support and modernize critical service proxy infrastructure on IBM Datapower, nginx, F5 LTM, IBM IHS, and Apache httpd
+  * Maintain and improve middleware container platforms on Kubernetes enabling migration of significant workload to modern infrastructure with minimal required software changes
+  * Implemented AWS distributed cloud account strategy and centralized monitoring mechanisms allowing for increased flexibility and manageability 
+  """
 
-  * Lead engineer for Cloud Platforms and Integrations squad in Global Retail Markets US IT Operations
-  * Architect strategies and solutions to build and migrate workload to AWS and Kubernetes
-  * Coach team on modern automation tools and practices
+[[experience]]
+  title = "Principal Infrastructure Engineer"
+  company = "Liberty Mutual"
+  company_url = "https://www.libertymutual.com"
+  location = "Remote"
+  date_start = "2020-03-01"
+  date_end = "2021-12-01"
+  description = """
+  * Developed and executed plan to migrate IBM Business Automation Workflow (BAW) platform and 40 application domains from Docker Swarm to Kubernetes on AWS and OpenStack
+  * Engineered middleware platforms on Kubernetes for IBM WebSphere, IBM OpenLiberty, and IBM Operational Decision Manager (ODM)
+  * Successfully migrated 40+ WebSphere/ODM applications to Kubernetes on AWS
+  """
+
+[[experience]]
+  title = "Senior Infrastructure Engineer"
+  company = "Liberty Mutual"
+  company_url = "https://www.libertymutual.com"
+  location = "Dover, NH"
+  date_start = "2018-04-01"
+  date_end = "2020-03-01"
+  description = """
+  * Designed and built middleware container platform for IBM Business Automation Workflow (BAW) on Docker Swarm on AWS and VMWare ESXi
+  * Successfully migrated 30+ critical IBM Business Process Manager (BPM) applications to IBM Business Automation Workflow (BAW) on Docker Swarm
+  * Developed CI/CD pipelines in Jenkins and configuration-as-code playbooks with Ansible and Chef
+  """
+
+[[experience]]
+  title = "Systems Administrator"
+  company = "Liberty Mutual"
+  company_url = "https://www.libertymutual.com"
+  location = "Dover, NH"
+  date_start = "2017-06-01"
+  date_end = "2018-04-01"
+  description = """
+  * Partnered with development teams to maintain and support middleware runtime, messaging, and monitoring platforms.
+  * Developed automations to deploy software updates and large-scale configuration changes
+  * Introduced and evangelized infrastructure engineering practices and tools 
   """
 
 [[experience]]
@@ -40,8 +73,6 @@ date_format = "Jan 2006"
   date_start = "2013-07-01"
   date_end = "2017-06-19"
   description = """
-  Responsibilities:
-
   * Designed, implemented, and maintained the Caché database infrastructure underlying the Epic electronic medical record system
   * Developed numerous shell script and Python tools for automating system tasks
   * Monitored health of Epic database system and take preventative steps to eliminate downtime
@@ -56,8 +87,6 @@ date_format = "Jan 2006"
   date_start = "2016-03-01"
   date_end = "2016-05-01"
   description = """
-  Responsibilities:
-
   * Participated in short-term government surge effort
   * Developed Python and Linux shell scripting tools per customer specifications
   """
@@ -70,8 +99,6 @@ date_format = "Jan 2006"
   date_start = "2012-11-01"
   date_end = "2013-06-01"
   description = """
-  Responsibilities:
-
   * Maintained and advanced the infrastructure behind the game franchises Rock Band and Dance Central
   * Developed API and monitoring scripts for more accurate management of mission critical application and database servers
   """
@@ -84,8 +111,6 @@ date_format = "Jan 2006"
   date_start = "2012-06-01"
   date_end = "2012-11-01"
   description = """
-  Responsibilities:
-
   * Supported and improved the design and functionality of the Vecna kiosk platform
   * Extended knowledge of Linux, PostgreSQL, Tomcat, and networking protocols
   * Worked as part of the systems engineering team to diagnose issues and determine appropriate solutions
@@ -99,8 +124,6 @@ date_format = "Jan 2006"
   date_start = "2010-08-01"
   date_end = "2012-06-01"
   description = """
-  Responsibilities:
-
   * Assisted customers in implementing and maintaining systems for the Epic EHR
   * Planned, installed, configured, and managed internal Linux and Unix servers for performance benchmarking
   * Monitored performance of multiple customer systems and troubleshot performance issues
@@ -117,8 +140,6 @@ date_format = "Jan 2006"
   date_start = "2010-01-01"
   date_end = "2012-03-01"
   description = """
-  Responsibilities:
-
   * Set up and supported the temporary IT infrastructure of the NFL for Superbowl XLIV
   * Learned essential skills on how to quickly and efficiently implement an IT infrastructure
 """
