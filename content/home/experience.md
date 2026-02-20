@@ -13,12 +13,25 @@ subtitle = ""
 date_format = "Jan 2006"
 
 [[experience]]
+  title = "Senior Solutions Engineer, Infrastructure"
+  company = "Liberty Mutual"
+  company_url = "https://www.libertymutual.com"
+  location = "Remote"
+  date_start = "2025-12-01"
+  date_end = ""
+  description = """
+  * Lead engineer for Compute Platforms department overseeing multiple diverse engineering squads including: Middleware, Configuration Platforms, Hypervisors, Operating Systems, Image Pipelines, and Storage/Backup Platforms
+  * Advisor and mentor for department of infrastructure engineers of various backgrounds and skillsets
+  * Design and execute multiple enterprise-scale modernization projects
+  """
+
+[[experience]]
   title = "Solutions Engineer, Infrastructure"
   company = "Liberty Mutual"
   company_url = "https://www.libertymutual.com"
   location = "Remote"
   date_start = "2021-12-01"
-  date_end = ""
+  date_end = "2025-12-01"
   description = """
   * Lead and mentor team of 9 engineers with diverse skillsets on modern tools and practices, incident troubleshooting techniques, and software development skills
   * Support and modernize critical service proxy infrastructure on IBM Datapower, nginx, F5 LTM, IBM IHS, and Apache httpd
