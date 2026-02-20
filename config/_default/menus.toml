@@ -27,8 +27,3 @@
   name = "Certifications"
   url = "#certifications"
   weight = 50
-
-[[main]]
-  name = "Resume (PDF)"
-  url = "files/Kevin_Vecchione_Resume.pdf"
-  weight = 70
